@@ -1,5 +1,7 @@
 # AccessPath ULeth
 
+[Quick start](#run-locally) · [Features](#features) · [Report and demos](#report-and-demonstrations) · [Limitations](#known-limitations)
+
 A custom 2D and 3D campus map and outdoor wayfinding prototype for the University of Lethbridge, built by Deep, a final-year Computer Science student.
 
 Explore buildings, plan outdoor walking journeys, find dining and vending buildings, and view parking areas through a browser interface. The longer-term goal is to support verified accessible campus journeys.
@@ -29,6 +31,8 @@ The simulated navigation animation was removed. The MP4s in this repository are 
 Install Node.js 20 or later. There are **no npm dependencies to install**.
 
 ```sh
+git clone https://github.com/deepmevada071-ui/accesspath-uleth.git
+cd accesspath-uleth
 npm start
 ```
 
