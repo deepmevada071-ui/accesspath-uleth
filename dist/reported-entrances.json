@@ -1,0 +1,26 @@
+{
+  "building": "118457919",
+  "point": [
+    -112.8609983,
+    49.6781811
+  ],
+  "kind": "preferred outdoor approach",
+  "provenance": "User reported University Hall entrance near Library/Arts connection in annotated screenshot.",
+  "accuracy": "Approximate approach on existing mapped footway 118459431, not exact door coordinates.",
+  "accessibility": "unknown",
+  "openingHours": "unknown",
+  "additionalApproaches": [
+    {
+      "building": "118467730",
+      "point": [
+        -112.8638217,
+        49.6780503
+      ],
+      "kind": "rear entrance outdoor approach",
+      "provenance": "User reported rear entrance in annotated map screenshot between Markin Hall and Students’ Union.",
+      "accuracy": "Existing endpoint of mapped footway 256672147; not surveyed door coordinates.",
+      "accessibility": "unknown",
+      "openingHours": "unknown"
+    }
+  ]
+}

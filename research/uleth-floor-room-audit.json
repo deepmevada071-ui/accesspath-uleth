@@ -1,0 +1,264 @@
+{
+  "checked_date": "2026-10-30",
+  "scope": "18 buildings currently named in AccessPath ULeth",
+  "warning": "No complete current all-room counts were obtained. 2014 counts cover the study classroom pool, not all offices, labs, toilets, storage, residences or other rooms. Exclude proposed NAB rooms. Do not use this as a current indoor-navigation database.",
+  "room_inventory_source": "https://www.ulethbridge.ca/sites/default/files/U%20of%20L%20Classroom%20Utilization%20Report%20-%20Final%20Feb%2028%202014.pdf",
+  "room_inventory_date": "2014-02",
+  "room_inventory_pages": "printed 2-4 and 2-5; PDF pages 11 and 12",
+  "current_inventory_access": {
+    "system": "FMSystems Workplace / university AutoCAD library",
+    "url": "https://www.ulethbridge.ca/facilities/development/content/facilities-management-system-fms",
+    "contact": "planning@uleth.ca"
+  },
+  "buildings": [
+    {
+      "name": "University Hall",
+      "floorEvidence": "9 levels described in university history. Current full floor inventory not obtained.",
+      "floorSource": "https://www.ulethbridge.ca/retired-faculty/history-u-l",
+      "currentTotalRooms": null,
+      "historicalTeachingRooms": [
+        "A580",
+        "B543",
+        "B650",
+        "B660",
+        "B716",
+        "B730",
+        "B756",
+        "C610",
+        "C620",
+        "C630",
+        "C640",
+        "C674",
+        "C756",
+        "D610",
+        "D630",
+        "D631",
+        "D632",
+        "D633",
+        "D634",
+        "D635",
+        "E575",
+        "E690"
+      ],
+      "historicalTeachingRoomCount": 22,
+      "roomSource": "https://www.ulethbridge.ca/sites/default/files/U%20of%20L%20Classroom%20Utilization%20Report%20-%20Final%20Feb%2028%202014.pdf"
+    },
+    {
+      "name": "Science Commons",
+      "floorEvidence": "2015 design drawings show levels 6–10. Design-stage evidence, not a current as-built floor inventory.",
+      "floorSource": "https://www.ulethbridge.ca/sites/default/files/16.01.28%20-%20Levels%206%20-%2010.pdf",
+      "currentTotalRooms": null,
+      "historicalTeachingRooms": [],
+      "historicalTeachingRoomCount": null,
+      "roomSource": null
+    },
+    {
+      "name": "University Library",
+      "floorEvidence": "Library occupies 3 levels: 9, 10, 11. This does not certify the total physical storeys of the complete LINC complex.",
+      "floorSource": "https://library.ulethbridge.ca/virtual_Tour/level10",
+      "currentTotalRooms": null,
+      "historicalTeachingRooms": [
+        "L1050",
+        "L1060",
+        "L1168",
+        "L1170A",
+        "L1170B",
+        "L1170G",
+        "L950"
+      ],
+      "historicalTeachingRoomCount": 7,
+      "roomSource": "https://www.ulethbridge.ca/sites/default/files/U%20of%20L%20Classroom%20Utilization%20Report%20-%20Final%20Feb%2028%202014.pdf"
+    },
+    {
+      "name": "Markin Hall",
+      "floorEvidence": "4 floors explicitly stated.",
+      "floorSource": "https://www.ulethbridge.ca/unews/article/markin-hall-makes-its-mark",
+      "currentTotalRooms": null,
+      "historicalTeachingRooms": [
+        "M1004",
+        "M1030",
+        "M1035",
+        "M1040",
+        "M1060",
+        "M1090",
+        "M3023"
+      ],
+      "historicalTeachingRoomCount": 7,
+      "roomSource": "https://www.ulethbridge.ca/sites/default/files/U%20of%20L%20Classroom%20Utilization%20Report%20-%20Final%20Feb%2028%202014.pdf"
+    },
+    {
+      "name": "Turcotte Hall",
+      "floorEvidence": "4 storeys in 2009 campus wind assessment; current inventory still needed.",
+      "floorSource": "https://www.ulethbridge.ca/sites/default/files/PedestrianWindAssesment2009-1_0.pdf",
+      "currentTotalRooms": null,
+      "historicalTeachingRooms": [
+        "TH141",
+        "TH143",
+        "TH173",
+        "TH177",
+        "TH201",
+        "TH204",
+        "TH241",
+        "TH277",
+        "TH341",
+        "TH373"
+      ],
+      "historicalTeachingRoomCount": 10,
+      "roomSource": "https://www.ulethbridge.ca/sites/default/files/U%20of%20L%20Classroom%20Utilization%20Report%20-%20Final%20Feb%2028%202014.pdf"
+    },
+    {
+      "name": "Anderson Hall",
+      "floorEvidence": "Single-storey form described in 2000 master-plan discussion. Historical evidence only.",
+      "floorSource": "https://www.ulethbridge.ca/masterplan/content/master-plan-report-2000",
+      "currentTotalRooms": null,
+      "historicalTeachingRooms": [
+        "AH116",
+        "AH117",
+        "AH118",
+        "AH175",
+        "AH176",
+        "AH177"
+      ],
+      "historicalTeachingRoomCount": 6,
+      "roomSource": "https://www.ulethbridge.ca/sites/default/files/U%20of%20L%20Classroom%20Utilization%20Report%20-%20Final%20Feb%2028%202014.pdf"
+    },
+    {
+      "name": "University Centre for the Arts",
+      "floorEvidence": "Historical classrooms on levels 4, 5, 7 and 8; this is not a complete floor count.",
+      "floorSource": "https://www.ulethbridge.ca/sites/default/files/U%20of%20L%20Classroom%20Utilization%20Report%20-%20Final%20Feb%2028%202014.pdf",
+      "currentTotalRooms": null,
+      "historicalTeachingRooms": [
+        "W400",
+        "W401",
+        "W428",
+        "W514",
+        "W550",
+        "W561",
+        "W565",
+        "W731",
+        "W767",
+        "W771",
+        "W857",
+        "W866",
+        "W870"
+      ],
+      "historicalTeachingRoomCount": 13,
+      "roomSource": "https://www.ulethbridge.ca/sites/default/files/U%20of%20L%20Classroom%20Utilization%20Report%20-%20Final%20Feb%2028%202014.pdf"
+    },
+    {
+      "name": "Alberta Water and Environmental Science Building",
+      "floorEvidence": "Historical classroom codes on levels 1 and 2; complete floor count not verified.",
+      "floorSource": "https://www.ulethbridge.ca/sites/default/files/U%20of%20L%20Classroom%20Utilization%20Report%20-%20Final%20Feb%2028%202014.pdf",
+      "currentTotalRooms": null,
+      "historicalTeachingRooms": [
+        "WE1001",
+        "WE2034"
+      ],
+      "historicalTeachingRoomCount": 2,
+      "roomSource": "https://www.ulethbridge.ca/sites/default/files/U%20of%20L%20Classroom%20Utilization%20Report%20-%20Final%20Feb%2028%202014.pdf"
+    },
+    {
+      "name": "Centre for Sport & Wellness",
+      "floorEvidence": "2 storeys in 2009 assessment; historical inventory also includes PE0xx rooms. Total accessible levels need confirmation.",
+      "floorSource": "https://www.ulethbridge.ca/sites/default/files/PedestrianWindAssesment2009-1_0.pdf",
+      "currentTotalRooms": null,
+      "historicalTeachingRooms": [
+        "PE020",
+        "PE040",
+        "PE044",
+        "PE138",
+        "PE250",
+        "PE261",
+        "PE264",
+        "PE275"
+      ],
+      "historicalTeachingRoomCount": 8,
+      "roomSource": "https://www.ulethbridge.ca/sites/default/files/U%20of%20L%20Classroom%20Utilization%20Report%20-%20Final%20Feb%2028%202014.pdf"
+    },
+    {
+      "name": "Max Bell Regional Aquatic Centre",
+      "floorEvidence": "Separate floor count not found. Shares PE designation with Sport & Wellness.",
+      "floorSource": "https://www.ulethbridge.ca/facilities/content/campus-buildings",
+      "currentTotalRooms": null,
+      "historicalTeachingRooms": [],
+      "historicalTeachingRoomCount": null,
+      "roomSource": null
+    },
+    {
+      "name": "Students’ Union Building",
+      "floorEvidence": "Four labelled levels evidenced by current tour: base/0, 1, 2 and 3; not an as-built storey audit.",
+      "floorSource": "https://www.ulethbridge.ca/future-student/tour-students-union-building",
+      "currentTotalRooms": null,
+      "historicalTeachingRooms": [
+        "SU063"
+      ],
+      "historicalTeachingRoomCount": 1,
+      "roomSource": "https://www.ulethbridge.ca/sites/default/files/U%20of%20L%20Classroom%20Utilization%20Report%20-%20Final%20Feb%2028%202014.pdf"
+    },
+    {
+      "name": "Hepler Hall",
+      "floorEvidence": "Complete floor count not found.",
+      "floorSource": "https://www.ulethbridge.ca/facilities/content/campus-buildings",
+      "currentTotalRooms": null,
+      "historicalTeachingRooms": [],
+      "historicalTeachingRoomCount": null,
+      "roomSource": null
+    },
+    {
+      "name": "Community Centre for Wellbeing",
+      "floorEvidence": "Complete current floor count not found. Historical teaching inventory uses former CCBN name; renovation changes must be checked.",
+      "floorSource": "https://www.ulethbridge.ca/facilities/content/campus-buildings",
+      "currentTotalRooms": null,
+      "historicalTeachingRooms": [
+        "EP1201"
+      ],
+      "historicalTeachingRoomCount": 1,
+      "roomSource": "https://www.ulethbridge.ca/sites/default/files/U%20of%20L%20Classroom%20Utilization%20Report%20-%20Final%20Feb%2028%202014.pdf"
+    },
+    {
+      "name": "Kainai House",
+      "floorEvidence": "A fourth floor is explicitly mentioned. Complete floor count not independently confirmed.",
+      "floorSource": "https://www.ulethbridge.ca/housing/kainai-house",
+      "currentTotalRooms": null,
+      "historicalTeachingRooms": [],
+      "historicalTeachingRoomCount": null,
+      "roomSource": null
+    },
+    {
+      "name": "Piikani House",
+      "floorEvidence": "Fourth-floor balcony explicitly mentioned. Complete floor count not independently confirmed.",
+      "floorSource": "https://www.ulethbridge.ca/unews/article/piikani-house-welcoming-students-home",
+      "currentTotalRooms": null,
+      "historicalTeachingRooms": [],
+      "historicalTeachingRoomCount": null,
+      "roomSource": null
+    },
+    {
+      "name": "Siksika House",
+      "floorEvidence": "Complete floor count not found.",
+      "floorSource": "https://www.ulethbridge.ca/housing/residences",
+      "currentTotalRooms": null,
+      "historicalTeachingRooms": [],
+      "historicalTeachingRoomCount": null,
+      "roomSource": null
+    },
+    {
+      "name": "Tsuutina House",
+      "floorEvidence": "Complete floor count not found.",
+      "floorSource": "https://www.ulethbridge.ca/housing/residences",
+      "currentTotalRooms": null,
+      "historicalTeachingRooms": [],
+      "historicalTeachingRoomCount": null,
+      "roomSource": null
+    },
+    {
+      "name": "Residence Village",
+      "floorEvidence": "Suite description includes main, upper and lower living levels. Four bedrooms per suite; these are not building-wide room totals.",
+      "floorSource": "https://www.ulethbridge.ca/housing/village",
+      "currentTotalRooms": null,
+      "historicalTeachingRooms": [],
+      "historicalTeachingRoomCount": null,
+      "roomSource": null
+    }
+  ]
+}

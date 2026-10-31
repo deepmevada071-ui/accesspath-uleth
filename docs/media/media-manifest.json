@@ -1,0 +1,39 @@
+{
+  "sourceCommit": "b5073f7d604e166d354e0e6cd4353fb57c4bda70",
+  "sourceURL": "https://accesspath-uleth-campus-deep.shukanforwork.chatgpt.site/?v=20&build=b5073f7",
+  "images": [
+    "01-campus-2d.jpg",
+    "02-campus-3d.jpg",
+    "03-food.jpg",
+    "05-parking.jpg",
+    "06-planner.jpg",
+    "07-rear-route.jpg",
+    "04-vending.jpg"
+  ],
+  "videos": [
+    {
+      "file": "01-campus-overview.mp4",
+      "seconds": 20,
+      "size": [
+        1280,
+        720
+      ],
+      "fps": 24,
+      "format": "H264 MP4",
+      "audio": "none",
+      "source": "Actual AccessPath screenshot slides"
+    },
+    {
+      "file": "02-navigation-and-services.mp4",
+      "seconds": 15,
+      "size": [
+        1280,
+        720
+      ],
+      "fps": 24,
+      "format": "H264 MP4",
+      "audio": "none",
+      "source": "Actual AccessPath screenshot slides"
+    }
+  ]
+}

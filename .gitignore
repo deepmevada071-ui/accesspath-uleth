@@ -1,0 +1,16 @@
+node_modules/
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
+*.log
+__pycache__/
+*.pyc
+.openai/
+photo-references/
+wayfinder-reference/
+docs/qa/
+*.zip
+*.tar.gz
+~$*

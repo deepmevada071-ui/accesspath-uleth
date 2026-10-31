@@ -1,0 +1,14 @@
+{
+  "name": "accesspath-uleth",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Independent University of Lethbridge campus map and outdoor wayfinding prototype",
+  "license": "MIT",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "start": "node scripts/serve.cjs",
+    "check": "node scripts/check.cjs",
+    "test": "node research/check-rear-entrance.cjs",
+    "prepare:heights": "node prepare-heights.cjs"
+  }
+}
